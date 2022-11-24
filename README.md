@@ -1,4 +1,4 @@
-# all-things-javascript
+# All-Things-JavaCcript
 
 ## _Learn To Be a JavaScript Expert_
 
